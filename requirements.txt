@@ -1,0 +1,9 @@
+azure-storage-blob==12.17.0
+beautifulsoup4==4.12.2
+numpy==2.1.1
+pandas==2.2.2
+psycopg2==2.9.9
+pyarrow==17.0.0
+Requests==2.31.0
+SQLAlchemy==2.0.20
+python-dotenv==1.0.0
