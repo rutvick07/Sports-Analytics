@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs every 5 minutes
+    - cron: '0 0 * * *' # Runs every day at 12 AM
   workflow_dispatch:
 
 # Define the jobs to be executed within the workflow
