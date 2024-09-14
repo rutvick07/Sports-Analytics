@@ -3,3 +3,6 @@
 
 # cache creatd 
 __pycache__
+
+# exclude config files
+environment-variables.txt
